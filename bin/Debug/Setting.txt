@@ -1,0 +1,4 @@
+SourceFolder: 
+TargetFolder: 
+TimePoint: 23:00
+Status: Stopped
