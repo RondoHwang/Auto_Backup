@@ -6,4 +6,6 @@ Back up the specified folder on time
 * boot auto-start and run in the Windows system tray.
 * detail logs
 
-![image](https://user-images.githubusercontent.com/52955281/215307709-41a08ced-e2a0-4064-8566-2bd501565956.png){:width="50%"}
+<img src="https://user-images.githubusercontent.com/52955281/215307709-41a08ced-e2a0-4064-8566-2bd501565956.png" 
+     width = "350" height = "200" margin="20" alt="form picture" align=center />
+
